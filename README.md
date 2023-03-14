@@ -1,8 +1,10 @@
-# Flappy-Bird
-A flappy bird game made for practice with unity. Part of a series of weekly mini games creating to improve my abilities and knowledge of unity & C#.
+# Robot Jump
 
-### Using this game
-To use this game, you will need to download it and open it in unity. From here you can make changes to it within unity and a supported IDE. You can run the game by pressing the play button in the editor or build it using `file>build and run`
+Robot jump is a game similar to 'Doodle Jump'. The premise is to get as high as you can by moving left and right up a series of platforms.
 
-### Controls
-Use a mouse click or space to jump. Avoid the pipes.
+### Technical Information
+Robot jump is written in **C#** using **Unity**. It was primarily compiled as a WebGL game, but could be adapted to Android/PC/Mac fairly easily in the future.
+
+<img src="images/operation-present-drop.png" alt="Employee data" width="400px" title="Robot Jump screenshot">
+
+<a href='https://play.google.com/store/apps/details?id=com.DefaultCompany.operationpresentdrop&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:200px"/></a>
