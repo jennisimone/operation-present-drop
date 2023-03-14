@@ -1,9 +1,9 @@
-# Robot Jump
+# Operation Present Drop
 
-Robot jump is a game similar to 'Doodle Jump'. The premise is to get as high as you can by moving left and right up a series of platforms.
+Operation Present Drop is a game similar to 'Flappy bird'. The premise is to avoid chimneys and smoke to get as far as possible. You score 1 point for every chimney you pass. Santa also drops presents as you pass each chimney. 
 
 ### Technical Information
-Robot jump is written in **C#** using **Unity**. It was primarily compiled as a WebGL game, but could be adapted to Android/PC/Mac fairly easily in the future.
+Robot jump is written in **C#** using **Unity**. It was compiled and uploaded as an android application. 
 
 <img src="images/operation-present-drop.png" alt="Employee data" width="400px" title="Robot Jump screenshot">
 
